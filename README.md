@@ -1,4 +1,4 @@
-This code challenge is to assess your skills in developing a simple API for a todo list application. For this code challenge you must use laravel and expose the API endpoints. We will test the endpoints using postman so you provide us with a postman collection with all the endpoints.
+This code challenge is to assess your skills in developing a simple API for a todo list application. For this code challenge you must use laravel and expose the API endpoints. We will test the endpoints using postman so you provide us with a postman collection with all the endpoints and link of the github repo where the code resides.
 
 
 Creating the exact models needed for the application to work properly is completely up to you. You can opt to use MySQL, MariaDB or PostgreSQL as you database.
